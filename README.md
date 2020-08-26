@@ -1,5 +1,5 @@
 ### $ whoami
-DevSecOps Engineer | Ethical Hacker at Remessa Online.<br>
+DevSecOps Engineer | Ethical Hacker<br>
 São Paulo, Brazil
 
 **Specialtys:**
