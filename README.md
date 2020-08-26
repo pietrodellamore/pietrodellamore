@@ -1,16 +1,21 @@
-### Hi there 👋
+### $ whoami
+DevSecOps Engineer | Ethical Hacker at Remessa Online.<br>
+São Paulo, Brazil
 
-<!--
-**pietrodellamore/pietrodellamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Specialtys:<br>
+- Offensive Security
+- Cloud Security
+- DevSecOps
+- Automations
+- Observability
+- Security Architecture
 
-Here are some ideas to get you started:
+Certifications:<br>
+- Terraform Associate Certified
+- Certified Network Security Specialist
+- Desec Certified Penetration Tester
+- API Security Architect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me:<br>
+[![LinkedIn Badge](https://img.shields.io/badge/-Pietro%20Nardi%20Dell'Amore-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/pietro-n-4a588b119/)](https://www.linkedin.com/in/pietro-n-4a588b119/)<br>
+[![HackTheBox Badge](https://www.hackthebox.eu/badge/image/73184)](https://app.hackthebox.eu/profile/73184)
