@@ -19,3 +19,6 @@ São Paulo, Brazil
 **Find me:**<br>
 [![LinkedIn Badge](https://img.shields.io/badge/-Pietro%20Nardi%20Dell'Amore-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/pietro-n-4a588b119/)](https://www.linkedin.com/in/pietro-n-4a588b119/)<br>
 [![HackTheBox Badge](https://www.hackthebox.eu/badge/image/73184)](https://app.hackthebox.eu/profile/73184)
+
+**Github Stats:**<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pietrodellamore)](https://github.com/anuraghazra/github-readme-stats)
